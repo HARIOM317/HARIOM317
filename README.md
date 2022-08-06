@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hariom317&label=Profile%20views&color=0e75b6&style=flat" alt="hariom317" /> </p>
 
-- 🌱 I’m currently learning **Android app development**
+- 🌱 I’m currently learning **web development**
 
 - 💬 Ask me about **Python, c++ and DSA**
 
