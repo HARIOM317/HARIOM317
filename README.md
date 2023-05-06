@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **web development**
 
-- 💬 Ask me about **Python, c++ and DSA**
+- 💬 Ask me about **Python, C++, Java, Linux, Web Development and DSA**
 
 - 📫 How to reach me **hariommewada484@gmail.com**
 
