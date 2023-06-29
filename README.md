@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hariom Singh Rajput</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-<img align="right" alt="Coding" width=400 src="https://www.lambdatest.com/resources/images/news24.gif">
+<img align="right" alt="Coding" width=400 src="https://camo.githubusercontent.com/b5a7a6bc53cd59f8977e9f2261378bf259fad706bede61aa87047b0b2f50908f/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133363633302f73637265656e73686f74732f343338393837382f61646f7074695f766964656f5f322e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hariom317&label=Profile%20views&color=0e75b6&style=flat" alt="hariom317" /> </p>
 
