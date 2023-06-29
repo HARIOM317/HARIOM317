@@ -20,9 +20,9 @@
 <a href="https://linkedin.com/in/hariom-singh-rajput" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hariom singh rajput" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/17305721" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17305721" height="30" width="40" /></a>
 <a href="https://instagram.com/hariomsinghrajput_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hariomsinghrajput_" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@hariommewada484" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@hariommewada484" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/hariommewada484?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@hariommewada484" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@hariom198" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@hariom198" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/hariommewada484" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="hariommewada484" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/hariommewada484/practice/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="hariommewada484" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
