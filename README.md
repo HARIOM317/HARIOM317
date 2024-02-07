@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hariom Singh Rajput</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-<img align="right" alt="Coding" width=400 src="https://camo.githubusercontent.com/b5a7a6bc53cd59f8977e9f2261378bf259fad706bede61aa87047b0b2f50908f/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133363633302f73637265656e73686f74732f343338393837382f61646f7074695f766964656f5f322e676966">
+<img align="right" alt="Coding" width=400 src="https://camo.githubusercontent.com/862f48a9043e8165541b09a5a64d969f1c155e0768a90e7a3d56f36efd8a82b3/68747470733a2f2f7777772e77656232347a6f6e652e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f31302f34363230372d70726f6772616d6d65722d312e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hariom317&label=Profile%20views&color=0e75b6&style=flat" alt="hariom317" /> </p>
 
