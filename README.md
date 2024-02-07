@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hariom317&label=Profile%20views&color=0e75b6&style=flat" alt="hariom317" /> </p>
 
-- 🔭 I’m currently working on [vSafe Mobile App](https://github.com/HARIOM317/vSafe-women-safety-app)
+- 🔭 I’m currently working on [DocApoint - A Doctor Appointment Website](https://github.com/HARIOM317/DocApoint)
 
-- 🌱 I’m currently learning **Android app development**
+- 🌱 I’m currently learning **MERN**
 
-- 💬 Ask me about **Flutter, Python, Web Development, c++ and DSA**
+- 💬 Ask me about **Flutter, Firebase, Python, MERN, C, C++ and DSA**
 
 - 📫 How to reach me **hariommewada484@gmail.com, https://www.linkedin.com/in/hariom-singh-rajput/**
 
