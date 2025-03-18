@@ -3,7 +3,7 @@
 <h1 align="center">Hi there, I'm Hariom Singh 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&pause=1000&color=30A6F7&width=600&lines=Software+Developer+%7C+Founder+Of+GitNexa;MERN+Stack+%7C+Next.js+%7C+Flutter+%7C+TypeScript;DSA+Enthusiast+%7C+Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&pause=1000&color=55fff4&width=600&lines=Software+Developer+%7C+Founder+Of+GitNexa;MERN+Stack+%7C+Next.js+%7C+Flutter+%7C+TypeScript;DSA+Enthusiast+%7C+Problem+Solver" alt="Typing SVG" />
 </p>
 
 ---
@@ -36,13 +36,13 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 #### Backend:
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-226522?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-ff923b?style=for-the-badge&logo=firebase&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-ffb93b?style=for-the-badge&logo=firebase&logoColor=black)
 
 #### Programming Languages:
-![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![C](https://img.shields.io/badge/-C-a08dbf?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -54,11 +54,9 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Canva](https://img.shields.io/badge/-Canva-009399?style=for-the-badge&logo=canva&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-278f56?style=for-the-badge&logo=android-studio&logoColor=white)
 
 ### 🌐 Connect With Me
 
