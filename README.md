@@ -112,3 +112,13 @@
 ---
 
 💻 **Keep Coding, Keep Growing!** 🚀
+
+
+<img src="https://raw.githubusercontent.com/${{ github.repository_owner }}/output/main/snake.svg" alt="Snake animation" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/${{ github.repository_owner }}/output/main/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/${{ github.repository_owner }}/output/main/pacman-contribution-graph.svg">
+  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/${{ github.repository_owner }}/output/main/pacman-contribution-graph.svg">
+</picture>
+
