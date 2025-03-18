@@ -13,6 +13,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&pause=1000&color=55fff4&width=600&lines=Software+Developer+%7C+Founder+Of+GitNexa;MERN+Stack+%7C+Next.js+%7C+Flutter+%7C+TypeScript;DSA+Enthusiast+%7C+Problem+Solver" alt="Typing SVG" />
 </p>
 
+I'm passionate about developing user-centric applications and tackling complex challenges. With a background in full-stack development and algorithmic problem solving, I continuously embrace new technologies and best practices to stay ahead in this ever-evolving tech landscape.
+
 <h4 align="center">My Coding Profiles</h4>
 <div align="center">
   <a href="https://auth.geeksforgeeks.org/user/hariommewada484" target="blank" style="background-color: #414141;">
@@ -99,17 +101,60 @@
 
 ---
 
-### 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-github-username)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-profile)
+# My Projects
+
+Here are some of the projects I have worked on:
+
+<table>
+  <tr>
+    <th>Title</th>
+    <th>Description</th>
+    <th>Technologies Used</th>
+    <th>Repository Link</th>
+  </tr>
+  <tr>
+    <td>Project 1</td>
+    <td>Short description of project 1</td>
+    <td>Tech1, Tech2</td>
+    <td><a href="https://github.com/yourusername/project1">Repo Link</a></td>
+  </tr>
+  <tr>
+    <td>Project 2</td>
+    <td>Short description of project 2</td>
+    <td>Tech1, Tech2, Tech3</td>
+    <td><a href="https://github.com/yourusername/project2">Repo Link</a></td>
+  </tr>
+  <tr>
+    <td>Project 3</td>
+    <td>Short description of project 3</td>
+    <td>Tech1, Tech2</td>
+    <td><a href="https://github.com/yourusername/project3">Repo Link</a></td>
+  </tr>
+</table>
 
 ---
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hariom317" alt="hariom317" /></a> </p>
 
+
 ---
 
+### 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-github-username)
+[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/your-discord-id)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/your-instagram)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+
+---
+
+*This README is a reflection of my ongoing journey as a developer—constantly learning, building, and embracing the future of technology.*
+<br>
 💻 **Keep Coding, Keep Growing!** 🚀
+
+
+
+
 
