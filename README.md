@@ -15,32 +15,14 @@
 
 I'm passionate about developing user-centric applications and tackling complex challenges. With a background in full-stack development and algorithmic problem solving, I continuously embrace new technologies and best practices to stay ahead in this ever-evolving tech landscape.
 
-<h4 align="center">My Coding Profiles</h4>
-<div align="center">
-  <a href="https://auth.geeksforgeeks.org/user/hariommewada484" target="blank" style="background-color: #414141;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" width="40" height="40" alt="gfg profile" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-
-  <a href="https://www.leetcode.com/hariomsinghmewada" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40" height="40" alt="leetcode profile" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-
-  <a href="https://www.hackerearth.com/@hariom198" target="blank">
-    <img src="https://sdn.signalhire.co/storage/company/46a0/9ec8/70aa/a886/3a36/d4ec/dba2/ef70.webp" width="40" height="40" alt="code 360 profile" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-
-   <a href="https://www.hackerrank.com/@hariommewada484" target="blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="40" height="40"alt="hackerrank profile"  />
-  </a>
-</div>
-
 ###
 
 ---
 
-<img align="right" alt="Coding" width=400 src="https://bpb-us-e2.wpmucdn.com/sites.uci.edu/dist/1/5748/files/2024/12/HomeLogo.gif">
+<h3 align="center">🚀 About Me</h3>
+<br>
 
-### 🚀 About Me
+<img align="right" alt="Coding" width=400 src="https://bpb-us-e2.wpmucdn.com/sites.uci.edu/dist/1/5748/files/2024/12/HomeLogo.gif">
 
 - 🔭 I’m currently working on **MERN stack, Next.js, Flutter, and DSA.**
   
@@ -99,6 +81,33 @@ I'm passionate about developing user-centric applications and tackling complex c
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hariom317&" alt="hariom317" /></p>
 
+
+---
+
+### 🧑🏼‍💻 My Coding Profiles
+
+[![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-308D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/hariommewada484)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://www.leetcode.com/hariomsinghmewada)
+[![Code360](https://img.shields.io/badge/-Code%20360-FF6F00?style=for-the-badge&logo=codingninjas&logoColor=white)](https://www.codingninjas.com/codestudio/profile/hariom198)
+[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/hariommewada484)
+[![HackerEarth](https://img.shields.io/badge/-HackerEarth-323754?style=for-the-badge&logo=hackerearth&logoColor=white)](https://www.hackerearth.com/@hariom198)
+
+---
+
+### 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-github-username)
+[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/your-discord-id)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/your-instagram)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+
+
+---
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hariom317" alt="hariom317" /></a> </p>
+
+
 ---
 
 
@@ -111,49 +120,34 @@ Here are some of the projects I have worked on:
     <th>Title</th>
     <th>Description</th>
     <th>Technologies Used</th>
-    <th>Repository Link</th>
+    <th>Link</th>
   </tr>
   <tr>
     <td>Project 1</td>
     <td>Short description of project 1</td>
     <td>Tech1, Tech2</td>
-    <td><a href="https://github.com/yourusername/project1">Repo Link</a></td>
+    <td><a href="https://github.com/yourusername/project1">Show Project</a></td>
   </tr>
   <tr>
     <td>Project 2</td>
     <td>Short description of project 2</td>
     <td>Tech1, Tech2, Tech3</td>
-    <td><a href="https://github.com/yourusername/project2">Repo Link</a></td>
+    <td><a href="https://github.com/yourusername/project2">Show Project</a></td>
   </tr>
   <tr>
     <td>Project 3</td>
     <td>Short description of project 3</td>
     <td>Tech1, Tech2</td>
-    <td><a href="https://github.com/yourusername/project3">Repo Link</a></td>
+    <td><a href="https://github.com/yourusername/project3">Show Project</a></td>
   </tr>
 </table>
 
----
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hariom317" alt="hariom317" /></a> </p>
-
-
----
-
-### 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-github-username)
-[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/your-discord-id)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/your-instagram)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
 
 ---
 
 *This README is a reflection of my ongoing journey as a developer—constantly learning, building, and embracing the future of technology.*
 <br>
 💻 **Keep Coding, Keep Growing!** 🚀
-
 
 
 
