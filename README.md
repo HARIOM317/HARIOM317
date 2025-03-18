@@ -2,15 +2,37 @@
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
+<div align="center">
+  <br>
+  <p align="center"> <img src="https://komarev.com/ghpvc/?username=hariom317&label=Profile%20views&color=0e75b6&style=flat" alt="hariom317" /> </p>
+</div>
+
 <h1 align="center">Hi there, I'm Hariom Singh 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&pause=1000&color=55fff4&width=600&lines=Software+Developer+%7C+Founder+Of+GitNexa;MERN+Stack+%7C+Next.js+%7C+Flutter+%7C+TypeScript;DSA+Enthusiast+%7C+Problem+Solver" alt="Typing SVG" />
 </p>
 
+<h4 align="center">My Coding Profiles</h4>
 <div align="center">
-  <p align="center"> <img src="https://komarev.com/ghpvc/?username=hariom317&label=Profile%20views&color=0e75b6&style=flat" alt="hariom317" /> </p>
+  <a href="https://auth.geeksforgeeks.org/user/hariommewada484" target="blank" style="background-color: #414141;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" width="40" height="40" alt="gfg profile" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="https://www.leetcode.com/hariomsinghmewada" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40" height="40" alt="leetcode profile" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="https://www.hackerearth.com/@hariom198" target="blank">
+    <img src="https://sdn.signalhire.co/storage/company/46a0/9ec8/70aa/a886/3a36/d4ec/dba2/ef70.webp" width="40" height="40" alt="code 360 profile" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+
+   <a href="https://www.hackerrank.com/@hariommewada484" target="blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="40" height="40"alt="hackerrank profile"  />
+  </a>
 </div>
+
+###
 
 ---
 
@@ -29,6 +51,7 @@
 - 💬 Ask me about **MERN, Next.js, Flutter, and DSA.**
 
 ---
+
 
 ### 🛠 Tech Stack
 
@@ -84,7 +107,8 @@
 
 ---
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hariom317" alt="hariom317" /></a> </p>
+
+---
+
 💻 **Keep Coding, Keep Growing!** 🚀
-
-
-
