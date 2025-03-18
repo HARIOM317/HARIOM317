@@ -58,6 +58,17 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-278f56?style=for-the-badge&logo=android-studio&logoColor=white)
 
+
+---
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hariom317&show_icons=true&locale=en&layout=compact" alt="hariom317" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hariom317&show_icons=true&locale=en" alt="hariom317" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hariom317&" alt="hariom317" /></p>
+
+---
+
 ### 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
@@ -67,3 +78,6 @@
 ---
 
 💻 **Keep Coding, Keep Growing!** 🚀
+
+
+
