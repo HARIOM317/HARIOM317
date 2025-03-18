@@ -1,4 +1,6 @@
-
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
 
 <h1 align="center">Hi there, I'm Hariom Singh 👋</h1>
 
@@ -6,19 +8,24 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&pause=1000&color=55fff4&width=600&lines=Software+Developer+%7C+Founder+Of+GitNexa;MERN+Stack+%7C+Next.js+%7C+Flutter+%7C+TypeScript;DSA+Enthusiast+%7C+Problem+Solver" alt="Typing SVG" />
 </p>
 
----
+<div align="center">
+  <p align="center"> <img src="https://komarev.com/ghpvc/?username=hariom317&label=Profile%20views&color=0e75b6&style=flat" alt="hariom317" /> </p>
+</div>
 
+---
 
 <img align="right" alt="Coding" width=400 src="https://bpb-us-e2.wpmucdn.com/sites.uci.edu/dist/1/5748/files/2024/12/HomeLogo.gif">
 
 ### 🚀 About Me
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hariom317&label=Profile%20views&color=0e75b6&style=flat" alt="hariom317" /> </p>
-
 - 🔭 I’m currently working on **MERN stack, Next.js, Flutter, and DSA.**
+  
 - 🌱 I’m continuously improving my **problem-solving skills and exploring new technologies.**
+  
 - 💡 Passionate about **building scalable applications, open-source contributions, and clean code.**
+  
 - 🤝 I love **collaborating on exciting projects and sharing knowledge.**
+  
 - 💬 Ask me about **MERN, Next.js, Flutter, and DSA.**
 
 ---
