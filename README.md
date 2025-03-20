@@ -29,9 +29,8 @@ I'm passionate about developing user-centric applications and tackling complex c
   
   [![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-308D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/hariommewada484)
   [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://www.leetcode.com/hariomsinghmewada)
-  [![Code360](https://img.shields.io/badge/-Code%20360-FF6F00?style=for-the-badge&logo=codingninjas&logoColor=white)](https://www.codingninjas.com/codestudio/profile/hariom198)
+  [![Code360](https://img.shields.io/badge/-Code%20360-FF6F00?style=for-the-badge&logo=codingninjas&logoColor=white)](https://www.naukri.com/code360/profile/hariomsingh)
   [![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/hariommewada484)
-  [![HackerEarth](https://img.shields.io/badge/-HackerEarth-323754?style=for-the-badge&logo=hackerearth&logoColor=white)](https://www.hackerearth.com/@hariom198)
   
 </div>
 
