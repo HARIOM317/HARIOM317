@@ -13,9 +13,9 @@
 <h1 align="center">Hi there, I'm Hariom Singh 👋</h1>
 
 <!-- Typing Animation -->
-<p align="center">
+<h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&pause=1000&color=55fff4&width=600&lines=Software+Developer+%7C+Founder+Of+GitNexa;MERN+Stack+%7C+Next.js+%7C+Flutter+%7C+TypeScript;DSA+Enthusiast+%7C+Problem+Solver" alt="Typing SVG" />
-</p>
+</h3>
 
 <!-- My Introduction Description -->
 I'm passionate about developing user-centric applications and tackling complex challenges. With a background in full-stack development and algorithmic problem solving, I continuously embrace new technologies and best practices to stay ahead in this ever-evolving tech landscape.
