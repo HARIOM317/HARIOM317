@@ -8,14 +8,25 @@
 </div>
 
 <h1 align="center">Hi there, I'm Hariom Singh 👋</h1>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&pause=1000&color=55fff4&width=600&lines=Software+Developer+%7C+Founder+Of+GitNexa;MERN+Stack+%7C+Next.js+%7C+Flutter+%7C+TypeScript;DSA+Enthusiast+%7C+Problem+Solver" alt="Typing SVG" />
 </p>
 
 I'm passionate about developing user-centric applications and tackling complex challenges. With a background in full-stack development and algorithmic problem solving, I continuously embrace new technologies and best practices to stay ahead in this ever-evolving tech landscape.
 
-###
+---
+
+<div align="center">
+
+### 🧑🏼‍💻 My Coding Profiles
+
+[![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-308D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/hariommewada484)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://www.leetcode.com/hariomsinghmewada)
+[![Code360](https://img.shields.io/badge/-Code%20360-FF6F00?style=for-the-badge&logo=codingninjas&logoColor=white)](https://www.codingninjas.com/codestudio/profile/hariom198)
+[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/hariommewada484)
+[![HackerEarth](https://img.shields.io/badge/-HackerEarth-323754?style=for-the-badge&logo=hackerearth&logoColor=white)](https://www.hackerearth.com/@hariom198)
+
+</div>
 
 ---
 
@@ -40,14 +51,9 @@ I'm passionate about developing user-centric applications and tackling complex c
 ### 🛠 Tech Stack
 
 #### Frontend:
-![React](https://img.shields.io/badge/-React-088ebe?style=for-the-badge&logo=react&logoColor=white)
-![Vite](https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-277e7a?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Material UI](https://img.shields.io/badge/-Material%20UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
-![Ant Design](https://img.shields.io/badge/-Ant%20Design-0170FE?style=for-the-badge&logo=ant-design&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+[![My Frontend Skills](https://skillicons.dev/icons?i=react,nextjs,tailwind,flutter,materialui,vite,bootstrap)](https://github.com/HARIOM317/)
+
 
 #### Backend:
 ![Node.js](https://img.shields.io/badge/-Node.js-226522?style=for-the-badge&logo=node.js&logoColor=white)
@@ -84,23 +90,14 @@ I'm passionate about developing user-centric applications and tackling complex c
 
 ---
 
-### 🧑🏼‍💻 My Coding Profiles
-
-[![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-308D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/hariommewada484)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://www.leetcode.com/hariomsinghmewada)
-[![Code360](https://img.shields.io/badge/-Code%20360-FF6F00?style=for-the-badge&logo=codingninjas&logoColor=white)](https://www.codingninjas.com/codestudio/profile/hariom198)
-[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/hariommewada484)
-[![HackerEarth](https://img.shields.io/badge/-HackerEarth-323754?style=for-the-badge&logo=hackerearth&logoColor=white)](https://www.hackerearth.com/@hariom198)
-
----
-
 ### 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-github-username)
-[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/your-discord-id)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/your-instagram)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=light)](https://linkedin.com/in/hariom-singh-mewada)
+[![Instagram](https://skillicons.dev/icons?i=instagram&theme=light)](https://instagram.com/hariomsinghrajput_)
+[![GitHub](https://skillicons.dev/icons?i=github&theme=light)](https://github.com/HARIOM317)
+[![Discord](https://skillicons.dev/icons?i=discord&theme=light)](https://discord.com/users/hariomsinghrajput)
+[![Gmail](https://skillicons.dev/icons?i=gmail&theme=light)](mailto:hariommewada484@gmail.com)
+
 
 
 ---
@@ -150,5 +147,43 @@ Here are some of the projects I have worked on:
 💻 **Keep Coding, Keep Growing!** 🚀
 
 
+ <h1 align="center">Hi 👋, I'm Asif Taj</h1>
+
+- 🔭 I’m currently working on Flutter
+- 🌱 I’m currently learning Backend
+- 💬 Ask me anything about Flutter 
+- 📫 How to reach me: axiftaj@gmail.com
+- 😄 My website: https://thetechbrothers.net
+- ⚡ Fun fact: I'm comming to teen
+  
+### Connect with me:
+<div id="badges">
+  <a href="https://github.com/axiftaj">
+    <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
+  </a>
+  <a href="https://www.youtube.com/channel/UCzvRaprYPhvAplMK36Gu0kw">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+   <a href="https://www.instagram.com/axif_taj">
+    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+   <a href="https://fb.com/aaxiftaj">
+    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+  </a>
+   <a href="https://twitter.com/axiftaj">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+
+### Languages and Tools:
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,postman,figma,xd&perline=5)](https://skillicons.dev)
+
+![Asif Taj's GitHub stats](https://github-readme-stats.vercel.app/api?username=axiftaj&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=axiftaj&theme=dark)
+
+
+<br>
+⭐️ From [axiftaj](https://github.com/axiftaj)
 
 
