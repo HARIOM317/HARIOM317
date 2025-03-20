@@ -61,10 +61,10 @@ I'm passionate about developing user-centric applications and tackling complex c
 ### 🛠 My Technical Skills
 
 #### Programming Languages:
-[![Programming languages](https://skillicons.dev/icons?i=c,cpp,java,py,js,ts,dart)](https://github.com/HARIOM317/)
+[![Programming languages](https://skillicons.dev/icons?i=c,cpp,py,js,ts)](https://github.com/HARIOM317/)
 
 #### Frontend:
-[![My Frontend Skills](https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,flutter,materialui,vite,bootstrap)](https://github.com/HARIOM317/)
+[![My Frontend Skills](https://skillicons.dev/icons?i=html,css,react,nextjs,flutter,materialui,vite,bootstrap)](https://github.com/HARIOM317/)
 
 #### Backend:
 [![My Backend Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase)](https://github.com/HARIOM317/)
