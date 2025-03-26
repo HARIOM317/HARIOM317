@@ -14,7 +14,7 @@
 
 <!-- Typing Animation -->
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&pause=1000&color=55fff4&width=600&lines=Software+Developer+%7C+Founder+Of+GitNexa;MERN+Stack+%7C+Next.js+%7C+Flutter+%7C+TypeScript;DSA+Enthusiast+%7C+Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&pause=1000&color=55fff4&width=600&lines=DSA+Enthusiast+%7C+Problem+Solver+%7C+CPP+Lang.;Ex+Founder+and+CTO+Of+GitNexa+Private+Limi.;MERN+Stack+%7C+Next.js+%7C+Flutter+%7C+TypeScript;" alt="Typing SVG" />
 </h3>
 
 <!-- My Introduction Description -->
