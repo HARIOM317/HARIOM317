@@ -132,4 +132,4 @@ Here are some of the projects I have worked on:
 ---
 
 <!-- My GitHub Trophys -->
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hariom317" alt="hariom317" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hariom317&theme=juicyfresh" alt="hariom317" /></a> </p>
