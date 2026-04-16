@@ -87,9 +87,10 @@ I'm passionate about developing user-centric applications and tackling complex c
 <!-- My Projects -->
 ### My Projects
 
-Here are some of the projects I have worked on:
+Here are my some real-world projects I have worked on:
 
 <table>
+  <!-- HEADER -->
   <tr>
     <th>Title</th>
     <th>Description</th>
@@ -100,47 +101,63 @@ Here are some of the projects I have worked on:
   <!-- 1. GitNexa -->
   <tr>
     <td>GitNexa</td>
-    <td>GitNexa is a modern website built with Next.js, TypeScript, and Material UI. It is designed to deliver a secure, responsive digital experience, ensuring fast loading times and a sleek, user-friendly interface. The website combines advanced technology with thoughtful design to meet today’s dynamic business needs for sustainable growth and success.</td>
+    <td>A secure, responsive modern website offering a fast and user-friendly digital experience for businesses.</td>
     <td>Next.js, TypeScript, Material UI</td>
     <td><a href="https://www.gitnexa.com/">Visit Live</a></td>
   </tr>
 
-  <!-- 2. Sky Hut Cafe -->
-  <tr>
-    <td>Sky Hut Cafe</td>
-    <td>Designed and developed a full-featured restaurant management system with role-based panels for admin, staff, and users. Key functionalities include online ordering, reservations, event bookings, real-time updates via Socket.io, Razorpay integration, QR-based offline orders, and a loyalty system with points and badges.</td>
-    <td>MERN Stack, Socket.io, Razorpay</td>
-    <td><a href="https://www.skyhutcafe.in/">Visit Live</a></td>
-  </tr>
-
-  <!-- 3. Nirog Sathi -->
+  <!-- 2. Nirog Sathi -->
   <tr>
     <td>Nirog Sathi</td>
-    <td>Developed Nirog Sathi, a full-stack healthcare management platform using the MERN stack and Ant Design. The system streamlines appointment scheduling, digital prescriptions, and payment integration, providing an intuitive and efficient interface for doctors, patients, and administrators.</td>
+    <td>A full-stack healthcare platform for streamlining appointments, digital prescriptions, and secure payments.</td>
     <td>MERN Stack, Ant Design</td>
     <td><a href="https://nirogsathi.gitnexa.com/">Visit Live</a></td>
   </tr>
 
-  <!-- 4. SIH Website -->
+  <!-- 3. Sky Hut Cafe -->
   <tr>
-    <td>SISTec Innovation Hackathon Website</td>
-    <td>Developed a full-featured and user-friendly MERN stack website for our college hackathon, featuring an admin panel that centralizes event organization, participant registration, team tracking, and secure payments. The website provides comprehensive information for students interested in participating, streamlining the registration process and enhancing the overall experience for participants.</td>
+    <td>Sky Hut Cafe</td>
+    <td>A comprehensive restaurant management system with online ordering, role-based panels, and real-time updates.</td>
+    <td>MERN Stack, Socket.io, Razorpay</td>
+    <td><a href="https://www.skyhutcafe.in/">Visit Live</a></td>
+  </tr>
+
+  <!-- 4. Royal Bee Keeper -->
+  <tr>
+    <td>Royal Bee Keeper</td>
+    <td>A B2B and B2C e-commerce platform for premium honey products featuring role-based dashboards and secure checkout.</td>
+    <td>MERN Stack, Razorpay</td>
+    <td><a href="https://royalbeekeeper.gitnexa.com/">Visit Live</a></td>
+  </tr>
+
+  <!-- 5. SIH WebApp -->
+  <tr>
+    <td>SISTec Innovation Hackathon</td>
+    <td>A centralized college hackathon platform for streamlined event organization, participant registration, and team tracking.</td>
     <td>MERN Stack, Bootstrap</td>
     <td><a href="https://www.sistecrsih.in/">Visit Live</a></td>
   </tr>
 
-  <!-- 5. Rail Netra -->
+  <!-- 6. Insight Institute of Education -->
+  <tr>
+    <td>Insight Institute of Education</td>
+    <td>A modern college portal designed to streamline digital operations and boost student enrollment.</td>
+    <td>Next.js, TypeScript, Material UI</td>
+    <td><a href="https://www.insightinstituteofeducation.com/">Visit Live</a></td>
+  </tr>
+
+  <!-- 7. Rail Netra -->
   <tr>
     <td>Rail Netra</td>
-    <td>RailNetra is an innovative mobile application designed to transform the Indian Railways experience. By integrating Flutter for an intuitive user interface, Firebase for robust backend support, and Python-driven AI/ML models including TensorFlow, YOLO, and LSTM, the app provides real-time crowd analysis, crime detection, and operational monitoring. This intelligent solution leverages advanced surveillance and deep learning techniques to enhance safety, efficiency, and overall passenger experience.</td>
+    <td>An AI-powered mobile app for Indian Railways offering real-time crowd analysis, crime detection, and operational monitoring.</td>
     <td>Flutter, Firebase, Python</td>
     <td><a href="https://github.com/HARIOM317/Rail-Netra">Show Project</a></td>
   </tr>
 
-  <!-- 6. vSafe -->
+  <!-- 8. vSafe -->
   <tr>
     <td>vSafe Mobile App</td>
-    <td>A women's safety app built with Flutter and Firebase, designed to enhance personal security with features like Real-time Location Tracking, Emergency Alerts (SOS), Shake-to-Send Alerts, One-to-One Chatting, Fake Calling, Chatbot Support, and Safety Resources, ensuring quick assistance and reliable protection.</td>
+    <td>A women's safety app featuring real-time location tracking, SOS alerts, and emergency resources.</td>
     <td>Flutter, Dart, Firebase</td>
     <td><a href="https://github.com/HARIOM317/vSafe-women-safety-app">Show Project</a></td>
   </tr>
@@ -157,8 +174,3 @@ Here are some of the projects I have worked on:
 [![Gmail](https://skillicons.dev/icons?i=gmail&theme=light)](mailto:hariommewada484@gmail.com)
 
 > **"Success isn’t a destination—it’s a journey of growth and persistence! 🚀"**
-
----
-
-<!-- My GitHub Trophys -->
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hariom317&theme=flat" alt="hariom317" /></a> </p>
