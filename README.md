@@ -110,7 +110,7 @@ Here are some of the projects I have worked on:
     <td>Sky Hut Cafe</td>
     <td>Designed and developed a full-featured restaurant management system with role-based panels for admin, staff, and users. Key functionalities include online ordering, reservations, event bookings, real-time updates via Socket.io, Razorpay integration, QR-based offline orders, and a loyalty system with points and badges.</td>
     <td>MERN Stack, Socket.io, Razorpay</td>
-    <td><a href="https://www.skyhutcafe.com/">Visit Live</a></td>
+    <td><a href="https://www.skyhutcafe.in/">Visit Live</a></td>
   </tr>
 
   <!-- 3. Nirog Sathi -->
@@ -118,7 +118,7 @@ Here are some of the projects I have worked on:
     <td>Nirog Sathi</td>
     <td>Developed Nirog Sathi, a full-stack healthcare management platform using the MERN stack and Ant Design. The system streamlines appointment scheduling, digital prescriptions, and payment integration, providing an intuitive and efficient interface for doctors, patients, and administrators.</td>
     <td>MERN Stack, Ant Design</td>
-    <td><a href="https://www.nirogsathi.com/">Visit Live</a></td>
+    <td><a href="https://nirogsathi.gitnexa.com/">Visit Live</a></td>
   </tr>
 
   <!-- 4. SIH Website -->
@@ -144,22 +144,6 @@ Here are some of the projects I have worked on:
     <td>Flutter, Dart, Firebase</td>
     <td><a href="https://github.com/HARIOM317/vSafe-women-safety-app">Show Project</a></td>
   </tr>
-
-  <!-- 7. Police Force Engagement Platform -->
-  <tr>
-    <td>Police Force Engagement Platform</td>
-    <td>Developed a dynamic police force engagement platform using Node.js, Express.js, and Handlebars. This web application provides real-time updates on police personnel availability and facilitates effective task management with detailed descriptions, status updates, and progress tracking. The project leverages a modern tech stack—including HTML5, CSS3, and JavaScript—to ensure a responsive, interactive user experience across devices, ultimately enhancing collaboration and community service within law enforcement.</td>
-    <td>Handlebars, CSS, JavScript, Node.js, Bootstrap</td>
-    <td><a href="https://github.com/HARIOM317/Force-Engagement-System-Static">Show Project</a></td>
-  </tr>
-
-  <!-- 8. Androstem -->
-  <tr>
-    <td>Androstem</td>
-    <td>Android Subsystem for Windows is a Windows application that feels like a mini operating system. It brings together a range of handy apps—including a personal assistant, PDF reader, text editor, media player, browser, QR code generator, image viewer/editor, calculator, weather app, recorder, converter, messaging, and calling features—all in one package. I built this project using Python, Tkinter, and over 150 libraries along with APIs like Twilio, Google, Rapid, and Geo to create a robust and feature-rich experience.</td>
-    <td>Python, Tkinter</td>
-    <td><a href="https://github.com/HARIOM317/Androstem">Show Project</a></td>
-  </tr>
 </table>
 
 ---
@@ -168,7 +152,6 @@ Here are some of the projects I have worked on:
 ### 🌐 Connect With Me
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=light)](https://linkedin.com/in/hariom-singh-mewada)
-[![Instagram](https://skillicons.dev/icons?i=instagram&theme=light)](https://instagram.com/hariomsinghrajput_)
 [![GitHub](https://skillicons.dev/icons?i=github&theme=light)](https://github.com/HARIOM317)
 [![Discord](https://skillicons.dev/icons?i=discord&theme=light)](https://discord.com/users/hariomsinghrajput)
 [![Gmail](https://skillicons.dev/icons?i=gmail&theme=light)](mailto:hariommewada484@gmail.com)
@@ -178,4 +161,4 @@ Here are some of the projects I have worked on:
 ---
 
 <!-- My GitHub Trophys -->
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hariom317&theme=onedark" alt="hariom317" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hariom317&theme=flat" alt="hariom317" /></a> </p>
